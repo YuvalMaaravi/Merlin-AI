@@ -52,9 +52,3 @@ cd Merlin-AI
   ```sh
   npm start
   ```
-
-## License
-MIT
-
----
-
