@@ -57,4 +57,4 @@ cd Merlin-AI
 MIT
 
 ---
-Made with ❤️ for the Merlin Innovation Team.
+
