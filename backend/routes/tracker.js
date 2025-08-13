@@ -2,7 +2,7 @@
 // Handles adding, listing, and removing Instagram trackers for users.
 const express = require('express');
 const authMiddleware = require('../utils/authMiddleware');
-const { getProfile, getFollowings } = require('../services/instagramApi');
+const { getProfile, getFollowings } = require('../services/instagramAPI');
 const Tracker = require('../models/Tracker');
 
 const router = express.Router();
